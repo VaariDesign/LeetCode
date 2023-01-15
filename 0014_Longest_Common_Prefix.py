@@ -12,3 +12,5 @@ class Solution:
                 prefix = prefix[0:-1]
 
         return prefix
+
+    
