@@ -10,3 +10,4 @@ class Solution:
                 s = s[len(symbol[i]):]
             i += 1
         return num
+    
