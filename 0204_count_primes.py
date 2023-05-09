@@ -7,5 +7,3 @@ class Solution:
                 isPrime[i * i: n: i] = [False] * len(isPrime[i * i: n: i])
         return sum(isPrime)
       
-
-      
