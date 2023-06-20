@@ -30,3 +30,4 @@ class Solution:
             interval *= 2
         
         return lists[0]
+
